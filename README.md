@@ -58,7 +58,7 @@ The API will be running on `http://localhost:8000`.
 - GET `/api/v1/cars` - Get all available cars
 
 ## Authors
-- NurIzatul Auliyaa 
+- Nur Izzatul Auliyaa 
 
 ## Acknowledgements
 - [Node.js](https://nodejs.org/)
