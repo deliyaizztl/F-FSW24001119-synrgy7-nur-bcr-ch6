@@ -12,7 +12,7 @@ This is a simple REST API for a cars management system with authentication & aut
 To install this API, you need to have Node.js installed on your machine. You can download it [here](https://nodejs.org/en/). After installing Node.js, you can clone this repository by running the following command in your terminal:
 
 ```bash
-git clone (https://github.com/deliyaizztl/F-FSW24001119-synrgy7-nur-bcr-ch6)
+git clone https://github.com/deliyaizztl/F-FSW24001119-synrgy7-nur-bcr-ch6
 ```
 
 After cloning the repository, navigate to the project directory and run the following command to install the dependencies:
